@@ -1080,4 +1080,7 @@ body{
   .count-kpi{padding:8px 16px;}
   .count-number{font-size:24px;}
 }
-
+#dataNotice,
+.data-notice {
+  display: none !important;
+}
